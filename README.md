@@ -1,20 +1,27 @@
-# 💫 Professional Summary
+# 💫 About Me
 
-🔭 Hands-on experience in **Data Analytics and Full Stack Web Development**, working on real-world projects involving data analysis, interactive dashboards, responsive web applications, and backend APIs.
+👨‍💻 B.Tech CSE (IoT) student with hands-on experience in **Full Stack Web Development and Data Analytics**, building web applications, backend APIs, and interactive dashboards.
 
-📊 Experienced in **Data Analytics**, including **SQL, Power BI, Excel, Pandas, NumPy, data visualization, and dashboard development**, with a focus on transforming raw data into actionable insights.
+🌐 Experienced in developing responsive web applications using **HTML, CSS, JavaScript, React, Node.js, and Express.js**, along with REST APIs and database integration.
 
-🌐 Hands-on experience in **Full Stack Web Development** using **HTML, CSS, JavaScript, React, Node.js, Express.js, REST APIs, and databases** to build scalable and user-friendly applications.
+📊 Skilled in **SQL, Power BI, Excel, Python, Pandas, and NumPy** for data analysis, visualization, and dashboard development.
 
-🤖 Also exploring **Machine Learning and AI**, with practical experience in Python, Scikit-learn, and AI-powered application development.
+🤖 Exploring **AI/ML and AI-powered application development** using Python and Scikit-learn.
 
-🚀 Passionate about **problem-solving, software development, data-driven solutions, and building real-world projects**.
+🧠 Practicing Data Structures & Algorithms on LeetCode to strengthen problem-solving skills.
 
-🤝 Open to collaborating on **Data Analytics, Full Stack Development, AI/ML, and Open Source Projects**.
+🤝 Open to collaborating on Full Stack Development, Data Analytics, AI/ML, and Open Source Projects.
 
-🌱 Continuously improving my skills in **React, JavaScript, backend development, databases, DSA, and modern web technologies**.
+📫 Reach me at **[sachincseiot@gmail.com](mailto:sachincseiot@gmail.com)**.
 
-⚡ Fun fact: I enjoy turning **raw data into meaningful insights** and **ideas into working applications**.
+---
+
+## 🚀 Currently Working On
+
+- 🤖 **Siva AI:** Developing an AI-powered chatbot using React, FastAPI, Python, MongoDB and the Gemini API.
+- 🌐 **Full Stack Development:** Building practical applications and improving backend development, API integration, and database management.
+- 📊 **Data Analytics:** Developing dashboards and analyzing datasets to generate meaningful insights.
+- 🧠 **Problem Solving:** Practicing DSA and solving coding challenges on LeetCode.
 
 ## 🌐 Socials:
 
@@ -108,11 +115,11 @@ Interactive sales analytics dashboard built using **Excel, Pivot Tables and Powe
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sachinydv0002&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sachinydv0002&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinydv0002&theme=radical&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinydv0002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinydv0002&layout=compact&theme=radical&hide_border=true" width="32%" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=sachinydv0002&theme=radical&hide_border=true" width="32%" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -122,6 +129,17 @@ Interactive sales analytics dashboard built using **Excel, Pivot Tables and Powe
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sachinydv0002&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Overview
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinydv0002&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/repo-size/sachinydv0002/Siva-AI?label=Siva%20AI%20Size&style=for-the-badge&color=success" alt="Siva AI Repository Size"/>
+  <a href="https://github.com/sachinydv0002?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+  </a>
+  <a href="https://leetcode.com/u/sachinydv0002/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ⭐ **Thanks for visiting my profile!**
