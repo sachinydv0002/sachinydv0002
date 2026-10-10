@@ -115,11 +115,25 @@ Interactive sales analytics dashboard built using **Excel, Pivot Tables and Powe
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinydv0002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="32%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinydv0002&layout=compact&theme=radical&hide_border=true" width="32%" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=sachinydv0002&theme=radical&hide_border=true" width="32%" alt="GitHub Streak"/>
-</p>
+
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sachinydv0002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=sachinydv0002&theme=radical&hide_border=true" width="100%" alt="GitHub Streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinydv0002&layout=compact&theme=radical&hide_border=true" width="50%" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -132,7 +146,7 @@ Interactive sales analytics dashboard built using **Excel, Pivot Tables and Powe
 ## 👀 Profile Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinydv0002&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sachinydv0002&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" alt="Profile Visitors" />
   <img src="https://img.shields.io/github/repo-size/sachinydv0002/Siva-AI?label=Siva%20AI%20Size&style=for-the-badge&color=success" alt="Siva AI Repository Size"/>
   <a href="https://github.com/sachinydv0002?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
