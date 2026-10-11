@@ -88,18 +88,20 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Siva AI
+### 🤖 Siva AI [Repo](https://github.com/sachinydv0002/Siva-AI)
 AI-powered chatbot application built with **React, FastAPI, Python and Gemini API**, featuring real-time AI response streaming and a modern conversational interface.
 
-### 🩺 Cancer Prediction using Machine Learning
+### 🛒 ByteBazaar – E-Commerce App [Repo](https://github.com/sachinydv0002/Bytebazaar-pern)
+Modern full-stack e-commerce application built using the **PERN Stack (PostgreSQL, Express.js, React and Node.js)**, featuring dynamic UI, secure APIs and cloud deployment.
+
+### 🩺 Cancer Prediction using Machine Learning [Repo](https://github.com/sachinydv0002/Cancer-Prediction-Project)
 Machine Learning project for predicting cancer using classification techniques with Python and Scikit-learn.
 
-### 🏏 IPL Data Analysis
+### 🏏 IPL Data Analysis [Repo](https://github.com/sachinydv0002/Ipl-Analysis-Dashboard)
 Data analytics project focused on analyzing IPL datasets and extracting meaningful performance insights using Python and data visualization.
 
-### 📊 Mobile Sales Dashboard
+### 📊 Mobile Sales Dashboard [Repo](https://github.com/sachinydv0002/Mobile_Sales_Dashboard)
 Interactive sales analytics dashboard built using **Excel, Pivot Tables and Power BI** to analyze business performance and trends.
-
 ---
 
 ## 🧠 Problem Solving
