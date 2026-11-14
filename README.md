@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Sachin Kumar
 
-### 💻 Full Stack Developer • Data Analytics • AI/ML • DSA
+### 💻 Full Stack Developer | Data Analytics | AI/ML | DSA
 
-**B.Tech CSE (IoT) | 2027**
+**B.Tech CSE (IoT) • 2027**
 
-I build practical web applications, backend APIs, AI-powered tools and data-driven dashboards.
+I build practical web applications, backend APIs, AI-powered applications and data-driven dashboards.
 
 <p>
   <a href="https://sachin-portfolio-navy.vercel.app/">
@@ -35,135 +35,184 @@ I build practical web applications, backend APIs, AI-powered tools and data-driv
 - 🗄️ Working with **MongoDB, PostgreSQL, MySQL & SQL**
 - 🤖 Exploring **AI/ML and Generative AI**
 - 📊 Building dashboards using **Power BI & Excel**
-- 🧠 Solving **Data Structures & Algorithms** on LeetCode
-- ☁️ Learning and working with **AWS, Docker & Cloud Deployment**
+- ☁️ Working with **AWS, Docker & Cloud Deployment**
+- 🧠 Practicing **Data Structures & Algorithms**
 - 🔥 **350+ LeetCode problems solved**
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript" />
-</p>
-
-### Frontend
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Backend
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### Databases
+### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### AI / Data Analytics
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-**Pandas • NumPy • Matplotlib • Scikit-learn • SQL • Power BI • Excel**
-
-### Cloud / DevOps / Tools
+### 📊 Data Analytics & AI/ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel,postman" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**REST APIs • JWT Authentication • GitHub • ESLint**
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
 ## ☁️ DriveX — Cloud File Management Application
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinydv0002/DriveX)
+Full-stack cloud file management application with authentication, file management and access control.
 
-A full-stack cloud file management application inspired by modern file storage platforms.
-
-**Key Features**
-
+**Features**
 - 🔐 JWT authentication with HTTP-only cookies
 - 📁 File & folder management
-- 📤 File upload/download
+- 📤 Upload & download
 - 📂 Nested folders
 - ⭐ Star / Unstar
 - 🗑️ Trash & restore
 - ✏️ Rename & move
-- 👥 Viewer / Editor access control
+- 👥 Viewer / Editor permissions
 - 🔎 Advanced search
 - 🔒 Ownership-based authorization
 
 **Tech:** React • Vite • Node.js • Express.js • MongoDB • Multer • JWT
 
+<p>
+<a href="https://github.com/sachinydv0002/DriveX">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
 ---
 
 ## 🤖 Siva AI — AI Study Assistant
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinydv0002/Siva-AI)
+AI-powered study assistant designed for engineering students with conversational AI and persistent chat functionality.
 
-AI-powered study assistant designed for engineering students.
-
-- 💬 Conversational AI interface
+**Features**
+- 💬 AI conversational interface
 - ⚡ Streaming AI responses
 - 🧠 Gemini API integration
 - 💾 MongoDB chat persistence
 - ⚙️ FastAPI backend
-- 🎓 Designed around engineering-study use cases
 
 **Tech:** React • FastAPI • Python • MongoDB • Gemini API
 
+<p>
+<a href="https://github.com/sachinydv0002/Siva-AI">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
 ---
 
-## 🛒 ByteBazaar — Full Stack E-Commerce
+## 🛒 ByteBazaar — E-Commerce Application
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinyaduvanshi0002/Bytebazaar-pern)
-
-Modern e-commerce application built using the **PERN stack**.
+Modern full-stack e-commerce application built using the **PERN stack**.
 
 **Tech:** PostgreSQL • Express.js • React.js • Node.js
+
+<p>
+<a href="https://github.com/sachinydv0002/Bytebazaar-pern">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://bytebazaar-pern.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</a>
+</p>
 
 ---
 
 ## 🩺 Cancer Prediction — Machine Learning
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinydv0002/Cancer-Prediction-Project)
-
-Machine learning project focused on cancer prediction using classification algorithms.
+Machine learning project for cancer prediction using classification techniques.
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn
+
+<p>
+<a href="https://github.com/sachinydv0002/Cancer-Prediction-Project">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🏏 IPL Data Analysis
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinydv0002/Ipl-Analysis-Dashboard)
-
-Data analytics project analyzing IPL datasets and extracting player, team and match insights.
+Data analytics project focused on IPL datasets and extracting meaningful player, team and match insights.
 
 **Tech:** Python • Pandas • NumPy • Matplotlib
+
+<p>
+<a href="https://github.com/sachinydv0002/Ipl-Analysis-Dashboard">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 📱 Mobile Sales Dashboard
 
-[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sachinydv0002/Mobile_Sales_Dashboard)
-
-Interactive sales analytics dashboard for understanding revenue, sales trends and business performance.
+Interactive sales dashboard for analyzing revenue, sales trends and business performance.
 
 **Tech:** Excel • Pivot Tables • Power BI
+
+<p>
+<a href="https://github.com/sachinydv0002/Mobile_Sales_Dashboard">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -172,6 +221,12 @@ Interactive sales analytics dashboard for understanding revenue, sales trends an
 Responsive e-commerce interface built to practice modern frontend development.
 
 **Tech:** HTML • CSS • JavaScript
+
+<p>
+<a href="https://github.com/sachinydv0002">
+<img src="https://img.shields.io/badge/📂_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
@@ -186,8 +241,9 @@ Responsive e-commerce interface built to practice modern frontend development.
 </p>
 
 - 🔥 **350+ LeetCode problems solved**
-- 🧩 Focused on DSA & algorithmic thinking
-- 🐍 Primarily solving problems using **Python**
+- 🧩 Focused on Data Structures & Algorithms
+- 🐍 Primarily solving problems using Python
+- 📈 Continuously improving algorithmic thinking
 
 ---
 
@@ -201,49 +257,19 @@ Responsive e-commerce interface built to practice modern frontend development.
 
 </p>
 
-> Using **GitHub Stats Extended**, the actively maintained successor to the older GitHub Readme Stats project.
-
 ---
 
-# 🐍 Contribution Activity
+# 🎯 Currently Learning
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+`Full Stack Development` • `FastAPI` • `AWS` • `Docker` • `AI/ML` • `Generative AI` • `DSA`
 
 </p>
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinydv0002&theme=react-dark&hide_border=true&area=true" />
-
-</p>
-
----
-
-# 🎯 What I'm Currently Learning
-
-```text
-Full Stack Development
-        ↓
-React + Node.js + FastAPI
-        ↓
-REST APIs + Authentication
-        ↓
-MongoDB + PostgreSQL
-        ↓
-AWS + Docker + Deployment
-        ↓
-AI/ML + Generative AI
-```
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -259,6 +285,10 @@ AI/ML + Generative AI
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/sachinydv0002/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 <a href="mailto:sachincseiot@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -269,7 +299,7 @@ AI/ML + Generative AI
 
 <div align="center">
 
-### 💻 Build. Learn. Solve. Repeat. 🚀
+### 🚀 Build • Learn • Solve • Repeat
 
 ⭐ **Thanks for visiting my profile!**
 
