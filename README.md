@@ -112,6 +112,15 @@ I build practical web applications, backend APIs, AI-powered applications and da
 
 ## ☁️ DriveX — Cloud File Management Application
 
+<p>
+<a href="https://github.com/sachinydv0002/DriveX">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://drivex-orcin.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
 Full-stack cloud file management application with authentication, file management and access control.
 
 **Features**
@@ -128,15 +137,18 @@ Full-stack cloud file management application with authentication, file managemen
 
 **Tech:** React • Vite • Node.js • Express.js • MongoDB • Multer • JWT
 
-<p>
-<a href="https://github.com/sachinydv0002/DriveX">
-<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
 ---
 
 ## 🤖 Siva AI — AI Study Assistant
+
+<p>
+<a href="https://github.com/sachinydv0002/Siva-AI">
+<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://siva-ai-one.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 AI-powered study assistant designed for engineering students with conversational AI and persistent chat functionality.
 
@@ -149,36 +161,26 @@ AI-powered study assistant designed for engineering students with conversational
 
 **Tech:** React • FastAPI • Python • MongoDB • Gemini API
 
-<p>
-<a href="https://github.com/sachinydv0002/Siva-AI">
-<img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
 ---
 
 ## 🛒 ByteBazaar — E-Commerce Application
-
-Modern full-stack e-commerce application built using the **PERN stack**.
-
-**Tech:** PostgreSQL • Express.js • React.js • Node.js
 
 <p>
 <a href="https://github.com/sachinydv0002/Bytebazaar-pern">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://bytebazaar-pern.onrender.com/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" />
 </a>
 </p>
+
+Modern full-stack e-commerce application built using the **PERN stack**.
+
+**Tech:** PostgreSQL • Express.js • React.js • Node.js
 
 ---
 
 ## 🩺 Cancer Prediction — Machine Learning
-
-Machine learning project for cancer prediction using classification techniques.
-
-**Tech:** Python • Pandas • NumPy • Scikit-learn
 
 <p>
 <a href="https://github.com/sachinydv0002/Cancer-Prediction-Project">
@@ -186,13 +188,13 @@ Machine learning project for cancer prediction using classification techniques.
 </a>
 </p>
 
+Machine learning project for cancer prediction using classification techniques.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn
+
 ---
 
 ## 🏏 IPL Data Analysis
-
-Data analytics project focused on IPL datasets and extracting meaningful player, team and match insights.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib
 
 <p>
 <a href="https://github.com/sachinydv0002/Ipl-Analysis-Dashboard">
@@ -200,13 +202,13 @@ Data analytics project focused on IPL datasets and extracting meaningful player,
 </a>
 </p>
 
+Data analytics project focused on IPL datasets and extracting meaningful player, team and match insights.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib
+
 ---
 
 ## 📱 Mobile Sales Dashboard
-
-Interactive sales dashboard for analyzing revenue, sales trends and business performance.
-
-**Tech:** Excel • Pivot Tables • Power BI
 
 <p>
 <a href="https://github.com/sachinydv0002/Mobile_Sales_Dashboard">
@@ -214,19 +216,23 @@ Interactive sales dashboard for analyzing revenue, sales trends and business per
 </a>
 </p>
 
+Interactive sales dashboard for analyzing revenue, sales trends and business performance.
+
+**Tech:** Excel • Pivot Tables • Power BI
+
 ---
 
 ## 🛍️ Flipkart UI
-
-Responsive e-commerce interface built to practice modern frontend development.
-
-**Tech:** HTML • CSS • JavaScript
 
 <p>
 <a href="https://github.com/sachinydv0002">
 <img src="https://img.shields.io/badge/📂_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+
+Responsive e-commerce interface built to practice modern frontend development.
+
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
