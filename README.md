@@ -1,29 +1,34 @@
 # 💫 About Me
 
-👨‍💻 B.Tech CSE (IoT) student with hands-on experience in **Full Stack Web Development and Data Analytics**, building web applications, backend APIs, and interactive dashboards.
+👨‍💻 B.Tech CSE (IoT) student focused on **Full Stack Development, Data Analytics, AI/ML, and Problem Solving**.
 
-🌐 Experienced in developing responsive web applications using **HTML, CSS, JavaScript, React, Node.js, and Express.js**, along with REST APIs and database integration.
+🌐 Building responsive and scalable web applications using **React.js, JavaScript, Node.js, Express.js, FastAPI, REST APIs, and MongoDB/PostgreSQL**.
 
-📊 Skilled in **SQL, Power BI, Excel, Python, Pandas, and NumPy** for data analysis, visualization, and dashboard development.
+📊 Working with **Python, SQL, Pandas, NumPy, Excel, and Power BI** for data analysis, visualization, and dashboard development.
 
-🤖 Exploring **AI/ML and AI-powered application development** using Python and Scikit-learn.
+🤖 Exploring **AI/ML and AI-powered applications** using Python, Scikit-learn, FastAPI, and Gemini API.
 
-🧠 Practicing Data Structures & Algorithms on LeetCode to strengthen problem-solving skills.
+☁️ Learning and working with **AWS, Docker, Google Cloud, and modern deployment platforms**.
 
-🤝 Open to collaborating on Full Stack Development, Data Analytics, AI/ML, and Open Source Projects.
+🧠 Practicing **Data Structures & Algorithms** regularly on LeetCode to improve problem-solving and algorithmic thinking.
 
-📫 Reach me at **[sachincseiot@gmail.com](mailto:sachincseiot@gmail.com)**.
+🚀 Interested in building practical software products and solving real-world problems through technology.
+
+📫 Reach me at **sachincseiot@gmail.com**
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🤖 **Siva AI:** Developing an AI-powered chatbot using React, FastAPI, Python, MongoDB and the Gemini API.
-- 🌐 **Full Stack Development:** Building practical applications and improving backend development, API integration, and database management.
-- 📊 **Data Analytics:** Developing dashboards and analyzing datasets to generate meaningful insights.
-- 🧠 **Problem Solving:** Practicing DSA and solving coding challenges on LeetCode.
+- 🤖 **Siva AI** — AI-powered study assistant using React, FastAPI, Python, MongoDB and Gemini API.
+- ☁️ **DriveX** — Full-stack cloud file management application with authentication, file/folder management, sharing and access control.
+- 🌐 **Full Stack Development** — Building practical applications with React, Node.js, Express.js, FastAPI and databases.
+- 📊 **Data Analytics** — Creating dashboards and analyzing datasets using Python, SQL, Excel and Power BI.
+- 🧠 **Problem Solving** — Regularly practicing DSA and solving problems on LeetCode.
 
-## 🌐 Socials:
+---
+
+## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054782516915)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sachinydv0002_/)
@@ -32,7 +37,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sachinydv0002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinydv0002/)
 
-# 💻 Tech Stack:
+---
+
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -40,7 +47,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 
 ### 🌐 Frontend Development
 
@@ -49,73 +56,160 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend & APIs
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-### 📊 Data Analytics & Machine Learning
+### 📊 Data Analytics & AI/ML
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ### ☁️ Cloud, DevOps & Tools
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
-### 🔧 Other Technologies
+### 🛠️ Other Tools
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🤖 Siva AI [Repo](https://github.com/sachinydv0002/Siva-AI)
-AI-powered chatbot application built with **React, FastAPI, Python and Gemini API**, featuring real-time AI response streaming and a modern conversational interface.
-
-### 🛒 ByteBazaar – E-Commerce App [Repo](https://github.com/sachinydv0002/Bytebazaar-pern)
-Modern full-stack e-commerce application built using the **PERN Stack (PostgreSQL, Express.js, React and Node.js)**, featuring dynamic UI, secure APIs and cloud deployment.
-
-### 🩺 Cancer Prediction using Machine Learning [Repo](https://github.com/sachinydv0002/Cancer-Prediction-Project)
-Machine Learning project for predicting cancer using classification techniques with Python and Scikit-learn.
-
-### 🏏 IPL Data Analysis [Repo](https://github.com/sachinydv0002/Ipl-Analysis-Dashboard)
-Data analytics project focused on analyzing IPL datasets and extracting meaningful performance insights using Python and data visualization.
-
-### 📊 Mobile Sales Dashboard [Repo](https://github.com/sachinydv0002/Mobile_Sales_Dashboard)
-Interactive sales analytics dashboard built using **Excel, Pivot Tables and Power BI** to analyze business performance and trends.
 ---
 
-## 🧠 Problem Solving
+# 🚀 Featured Projects
+
+### ☁️ DriveX — Cloud File Management Application
+
+[**Repo**](https://github.com/sachinydv0002/DriveX)
+
+A full-stack Google Drive-inspired file management application built with the **MERN stack**.
+
+**Key Features:**
+- 🔐 JWT authentication with HTTP-only cookies
+- 📁 File and folder management
+- 📤 File upload and download
+- 📂 Nested folders
+- ⭐ Star / Unstar
+- 🗑️ Trash, restore, rename and move
+- 👥 Viewer / Editor access control
+- 🔎 Advanced search
+- 🔒 Ownership-based authorization
+- 🗄️ MongoDB metadata and local file storage
+
+**Tech:** React, Vite, Node.js, Express.js, MongoDB, Multer, JWT
+
+---
+
+### 🤖 Siva AI — AI Study Assistant
+
+[**Repo**](https://github.com/sachinydv0002/Siva-AI)
+
+AI-powered study assistant designed for engineering students.
+
+**Features:**
+- 💬 Conversational AI interface
+- ⚡ Real-time AI response streaming
+- 🧠 Gemini API integration
+- 💾 MongoDB-based chat persistence
+- 🔐 Backend API architecture
+
+**Tech:** React, FastAPI, Python, MongoDB, Gemini API
+
+---
+
+### 🛒 ByteBazaar — E-Commerce Application
+
+[**Repo**](https://github.com/sachinydv0002/Bytebazaar-pern)
+
+Modern full-stack e-commerce application built using the **PERN stack**.
+
+**Tech:** PostgreSQL, Express.js, React.js, Node.js
+
+---
+
+### 🩺 Cancer Prediction using Machine Learning
+
+[**Repo**](https://github.com/sachinydv0002/Cancer-Prediction-Project)
+
+Machine learning project for cancer prediction using classification techniques.
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn
+
+---
+
+### 🏏 IPL Data Analysis
+
+[**Repo**](https://github.com/sachinydv0002/Ipl-Analysis-Dashboard)
+
+Data analytics project focused on IPL datasets, player performance and match insights.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Data Visualization
+
+---
+
+### 📱 Mobile Sales Dashboard
+
+[**Repo**](https://github.com/sachinydv0002/Mobile_Sales_Dashboard)
+
+Interactive dashboard for analyzing mobile sales, revenue, trends and business performance.
+
+**Tech:** Excel, Pivot Tables, Power BI
+
+---
+
+### 🛍️ Flipkart UI Project
+
+Responsive e-commerce interface inspired by modern online shopping platforms.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+### 🎓 Student Course Tracker
+
+Dashboard-style application for managing and tracking student courses and academic information.
+
+**Tech:** React.js, JavaScript, HTML, CSS
+
+---
+
+# 🧠 Problem Solving
 
 - 💻 Regularly practicing **Data Structures & Algorithms**
 - 🔥 Solving problems on **LeetCode**
 - 🚀 Solved **350+ Questions**
+- 🐍 Prefer solving coding problems using **Python**
 - 📚 Focused on improving algorithmic thinking and problem-solving skills
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sachinydv0002?theme=dark&font=Karma)](https://leetcode.com/u/sachinydv0002/)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinydv0002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
@@ -128,23 +222,34 @@ Interactive sales analytics dashboard built using **Excel, Pivot Tables and Powe
 
 ---
 
-## ✍️ Thought of the Day
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sachinydv0002&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+# ✍️ Thought of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 👀 Profile Overview
+# 👀 Profile Overview
 
 <p align="center">
   <img src="https://hits.sh/github.com/sachinydv0002.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/repo-size/sachinydv0002/Siva-AI?label=Siva%20AI%20Size&style=for-the-badge&color=success" alt="Siva AI Repository Size"/>
+  
   <a href="https://github.com/sachinydv0002?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore My Repositories"/>
   </a>
+  
   <a href="https://leetcode.com/u/sachinydv0002/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
+---
+
 ⭐ **Thanks for visiting my profile!**
+
+💡 **Always learning. Always building. Always improving.**
